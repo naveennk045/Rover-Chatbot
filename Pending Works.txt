@@ -1,0 +1,9 @@
+Pending Works
+    Cloud vision Key
+    Add Conversation after the text is detected
+    Error Handling
+        all error in llama and OCR
+    Refresh and chats are available
+    Youtube Transcriptions
+
+    
